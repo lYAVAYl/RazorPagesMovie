@@ -10,7 +10,7 @@ using RazorPagesMovie.Data;
 namespace RazorPagesMovie.Migrations
 {
     [DbContext(typeof(RazorPagesMovieContext))]
-    [Migration("20210310052002_New_DataAnnotations")]
+    [Migration("20210310053049_New_DataAnnotations")]
     partial class New_DataAnnotations
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
